@@ -1,0 +1,58 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Indie+Flower&display=swap');
+
+
+
+
+.Fundo {
+    background-image: url('../imgs/fundo.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 10% 30%;
+   
+
+}
+
+.fonteNavBar {
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+
+    
+
+}
+
+.fonteGaleria {
+font-size: 18px;
+font-family: 'Indie Flower', cursive;
+text-align: center;
+}
+
+.fonteNavbar:hover{
+    color: #b3d333;
+  
+}
+
+.fonteCardGaleria {
+  font-family: 'Abril Fatface', cursive;
+  color: "#b3d333";
+  text-align: center;
+
+  
+
+}
+
+.fonteFormulario{
+  font-family: 'Abril Fatface', cursive;
+color: #50394F;
+}
+
+.formularioContato{
+  background-color: #98AFD7;
+}
+
+.botao{
+  background-color: #b3d333;
+  color: #b3d333;
+}
